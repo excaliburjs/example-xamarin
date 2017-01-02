@@ -4,8 +4,6 @@
              xmlns:local="clr-namespace:Game"
              x:Class="Game.MainPage">
 
-    <Label Text="Welcome to Xamarin Forms!"
-           VerticalOptions="Center"
-           HorizontalOptions="Center" />
+    <WebView x:Name="GameWebView"></WebView>
 
 </ContentPage>
