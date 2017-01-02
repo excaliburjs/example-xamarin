@@ -4,6 +4,8 @@ This example shows how to embed your Excalibur game into a Xamarin Forms WebView
 allow access to local assets. You can use it as a basis for your own native cross-platform
 mobile game!
 
+![Android example](https://cloud.githubusercontent.com/assets/563819/21593035/b788e0e8-d0d8-11e6-88a9-ccf2a1c81571.png)
+
 ## Prerequisites
 
 - Visual Studio 2015 Community or higher
